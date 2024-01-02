@@ -1,4 +1,4 @@
-@import url(project1\blog-preview-card-main\assets\fonts\static\Figtree-ExtraBold.ttf);
+@import url(https://fonts.google.com/specimen/Figtree);
 
 body {
   font-family: Figtree system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
@@ -17,7 +17,6 @@ body {
   right: 20px;
   width: 150px;
   height: auto;
-  background-color: black;
   height: 200px;
   border-radius: 20px;
 }
