@@ -20,7 +20,7 @@ body {
 
 .card_container {
   position: relative;
-  width: 375px;
+  width: 350px;
   height: 550px;
   background-color: var(--Black);
   border-radius: 20px;
@@ -66,8 +66,10 @@ button {
 }
 
 .published {
+  color: var(--Grey);
   font-weight: 500;
-  font-size: 12px;
+  margin-top: 20px;
+  font-size: 14px;
 }
 
 .heading {
@@ -80,7 +82,7 @@ button {
   gap: 20px;
 }
 .person img {
-  height: 40px;
+  height: 50px;
 }
 .person h4 {
   font-weight: 900;
@@ -89,4 +91,5 @@ button {
 .content {
   color: var(--Grey);
   font-weight: 500;
+  line-height: 1.5;
 }
